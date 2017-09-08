@@ -1,0 +1,5 @@
+entity\Person.class
+control\Tester.class
+control\ApplicationConfig.class
+control\Generator.class
+control\DataResource.class
